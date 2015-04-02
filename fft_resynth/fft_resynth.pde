@@ -57,6 +57,6 @@ void draw() {
       text("" + centerFreq, 0, 0);
     }
     popMatrix();
-    delay(1); // time stretching!
+    //delay(1); // time stretching!
   } 
 }
